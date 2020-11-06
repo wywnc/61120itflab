@@ -20,7 +20,7 @@
             </div>
             <div class="col-sm-4">
                 <img src="life2.jpg" style="height: 66%; width:100%" class="img-fluid">
-                <img src="work2.jpg" style="height: 34%; width:100%"class="img-fluid">
+                <img src="work2.jpg" style="height: 34%; width:100%" class="img-fluid">
             </div>
         </div> <!-- Close Row 1 -->
     </div> <!-- Close container -->
